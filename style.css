@@ -1,0 +1,26 @@
+h3{
+  font-size:40px;
+  color:orangered;
+  font-family:monospace;
+}
+input{
+  font-size:40px;
+  height:30px;
+  width:300px;
+}
+button{
+  font-size:20px;
+  background-color:orangered;
+  color:white;
+  padding:5px;
+  margin:0px;
+  
+}
+body{
+  background-color:black;
+  color:orangered;
+}
+ul{
+  color:orangered;
+  font-size:40px;
+}
